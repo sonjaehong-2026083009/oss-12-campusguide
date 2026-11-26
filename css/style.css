@@ -1,0 +1,41 @@
+
+/* 전체 웹사이트 기본 설정 */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f5f7fa;
+    color: #333;
+}
+
+/* 상단 헤더 */
+header {
+    background-color: #17365d;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+/* 메뉴 */
+nav {
+    background-color: #ffffff;
+    padding: 15px;
+}
+
+/* 메인 콘텐츠 */
+main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+/* 하단 */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #17365d;
+    color: white;
+}
